@@ -1,4 +1,6 @@
 ## agnoster
+Fork of Agnoster which places the github status to the right_prompt.
+
 
 A fish theme optimized for people who use:
 
