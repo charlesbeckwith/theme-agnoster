@@ -1,6 +1,6 @@
 ## agnoster
 Fork of Agnoster which places the github status to the right_prompt.
-
+![agnoster github prompt right](https://cloud.githubusercontent.com/assets/18060758/17079455/75beeebe-50d6-11e6-8ea9-9b61044cb334.png)
 
 A fish theme optimized for people who use:
 
